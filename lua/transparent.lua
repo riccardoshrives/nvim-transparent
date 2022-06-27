@@ -25,6 +25,8 @@ local config = {
         "SignColumn",
         "CursorLineNr",
         "EndOfBuffer",
+        "WinSeparator",
+        "MsgArea",
     },
     extra_groups = {},
     exclude = {},
