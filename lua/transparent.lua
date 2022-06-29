@@ -28,6 +28,7 @@ local config = {
         "WinSeparator",
         "MsgArea",
         "ModeMsg",
+        "VertSplit",
     },
     extra_groups = {},
     exclude = {},
