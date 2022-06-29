@@ -27,6 +27,7 @@ local config = {
         "EndOfBuffer",
         "WinSeparator",
         "MsgArea",
+        "ModeMsg",
     },
     extra_groups = {},
     exclude = {},
