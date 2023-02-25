@@ -29,6 +29,7 @@ local config = {
         "MsgArea",
         "ModeMsg",
         "VertSplit",
+        "TelescopeBorder",
     },
     extra_groups = {},
     exclude = {},
