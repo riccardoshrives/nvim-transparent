@@ -30,6 +30,7 @@ local config = {
         "ModeMsg",
         "VertSplit",
         "TelescopeBorder",
+        "FoldColumn"
     },
     extra_groups = {},
     exclude = {},
